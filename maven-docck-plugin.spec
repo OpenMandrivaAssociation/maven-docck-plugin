@@ -1,6 +1,6 @@
 Name:           maven-docck-plugin
 Version:        1.0
-Release:        4
+Release:        6
 Summary:        Maven Documentation Checker Plugin
 
 Group:          Development/Java
