@@ -5,7 +5,7 @@ Summary:        Maven Documentation Checker Plugin
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-docck-plugin/
+URL:            https://maven.apache.org/plugins/maven-docck-plugin/
 #svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-docck-plugin-1.0/
 #tar jcf maven-docck-plugin-1.0.tar.bz2 maven-docck-plugin-1.0/
 Source0:        %{name}-%{version}.tar.bz2
